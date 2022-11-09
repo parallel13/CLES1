@@ -1,0 +1,15 @@
+/home/vm1/Desktop/les/c/EX3/bin/Debug/net6.0/EX3
+/home/vm1/Desktop/les/c/EX3/bin/Debug/net6.0/EX3.deps.json
+/home/vm1/Desktop/les/c/EX3/bin/Debug/net6.0/EX3.runtimeconfig.json
+/home/vm1/Desktop/les/c/EX3/bin/Debug/net6.0/EX3.dll
+/home/vm1/Desktop/les/c/EX3/bin/Debug/net6.0/ref/EX3.dll
+/home/vm1/Desktop/les/c/EX3/bin/Debug/net6.0/EX3.pdb
+/home/vm1/Desktop/les/c/EX3/obj/Debug/net6.0/EX3.csproj.AssemblyReference.cache
+/home/vm1/Desktop/les/c/EX3/obj/Debug/net6.0/EX3.GeneratedMSBuildEditorConfig.editorconfig
+/home/vm1/Desktop/les/c/EX3/obj/Debug/net6.0/EX3.AssemblyInfoInputs.cache
+/home/vm1/Desktop/les/c/EX3/obj/Debug/net6.0/EX3.AssemblyInfo.cs
+/home/vm1/Desktop/les/c/EX3/obj/Debug/net6.0/EX3.csproj.CoreCompileInputs.cache
+/home/vm1/Desktop/les/c/EX3/obj/Debug/net6.0/EX3.dll
+/home/vm1/Desktop/les/c/EX3/obj/Debug/net6.0/ref/EX3.dll
+/home/vm1/Desktop/les/c/EX3/obj/Debug/net6.0/EX3.pdb
+/home/vm1/Desktop/les/c/EX3/obj/Debug/net6.0/EX3.genruntimeconfig.cache
