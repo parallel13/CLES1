@@ -1,0 +1,15 @@
+/home/vm1/Desktop/les/c/EX7/bin/Debug/net6.0/EX7
+/home/vm1/Desktop/les/c/EX7/bin/Debug/net6.0/EX7.deps.json
+/home/vm1/Desktop/les/c/EX7/bin/Debug/net6.0/EX7.runtimeconfig.json
+/home/vm1/Desktop/les/c/EX7/bin/Debug/net6.0/EX7.dll
+/home/vm1/Desktop/les/c/EX7/bin/Debug/net6.0/ref/EX7.dll
+/home/vm1/Desktop/les/c/EX7/bin/Debug/net6.0/EX7.pdb
+/home/vm1/Desktop/les/c/EX7/obj/Debug/net6.0/EX7.csproj.AssemblyReference.cache
+/home/vm1/Desktop/les/c/EX7/obj/Debug/net6.0/EX7.GeneratedMSBuildEditorConfig.editorconfig
+/home/vm1/Desktop/les/c/EX7/obj/Debug/net6.0/EX7.AssemblyInfoInputs.cache
+/home/vm1/Desktop/les/c/EX7/obj/Debug/net6.0/EX7.AssemblyInfo.cs
+/home/vm1/Desktop/les/c/EX7/obj/Debug/net6.0/EX7.csproj.CoreCompileInputs.cache
+/home/vm1/Desktop/les/c/EX7/obj/Debug/net6.0/EX7.dll
+/home/vm1/Desktop/les/c/EX7/obj/Debug/net6.0/ref/EX7.dll
+/home/vm1/Desktop/les/c/EX7/obj/Debug/net6.0/EX7.pdb
+/home/vm1/Desktop/les/c/EX7/obj/Debug/net6.0/EX7.genruntimeconfig.cache
